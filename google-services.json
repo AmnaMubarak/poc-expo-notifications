@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443759586954",
+    "project_id": "push-notifications-cda1b",
+    "storage_bucket": "push-notifications-cda1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443759586954:android:f20a0c6f297b7d686b8773",
+        "android_client_info": {
+          "package_name": "com.amnatest.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5X1th-8N0-y9Qo0R3K273MErqjs7n9U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
